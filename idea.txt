@@ -1,0 +1,11 @@
+先看所有attack的FT版本
+看甚麼樣的圖片能不被那些attack影響
+
+Bar code (also try to smooth bar code if the generated image seemed to be affected too much)
+
+zero knowledge proof
+
+
+RSA (cryptosystem)
+
+https://arxiv.org/pdf/1712.02950.pdf
