@@ -1,3 +1,4 @@
+# Introduction
 The problem this project aims to solve is the need for a robust and efficient method to authenticate digital images and protect them from unauthorized use. In the digital age, images are easily duplicated
 and shared, leading to copyright infringement and misuse. A reliable solution is needed to embed information in images to prove their authenticity and ownership.
 
